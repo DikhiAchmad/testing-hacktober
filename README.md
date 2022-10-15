@@ -37,5 +37,10 @@ git add .
 git commit -m "your-commit-msg"
 git push origin my-new-branch
 ```
+### kumpulkan kreasi apapun namun kasih folder tersendiri ya..
+
+contoh format folder:
+
+Karya_usernameMu_namaKaryaMu
 
 dan buat Pull Request ke branch master
