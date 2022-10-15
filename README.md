@@ -1,5 +1,12 @@
 # Demo Hacktoberfest
 
+### Ketentuan
+
+kumpulkan kreasi apapun namun kasih folder tersendiri ya..
+contoh format folder:
+
+Karya_usernameMu_namaKaryaMu
+
 ## Syarat mengikut
 
 - Sudah terinstall git
@@ -20,7 +27,7 @@
 ### Clone Project
 
 ```
-git clone https://github.com/{ user name kamu }/demo-hacktober-healthcare.git atau bisa juga download zip
+git clone https://github.com/{ user name kamu }/testing-hacktober.git atau bisa juga download zip
 buka folder demo-hacktober-healthcare
 ```
 
@@ -37,10 +44,4 @@ git add .
 git commit -m "your-commit-msg"
 git push origin my-new-branch
 ```
-### kumpulkan kreasi apapun namun kasih folder tersendiri ya..
 
-contoh format folder:
-
-Karya_usernameMu_namaKaryaMu
-
-dan buat Pull Request ke branch master
